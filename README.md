@@ -1,61 +1,64 @@
-## Selected work
-
 <div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=omarbaiomay&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48554805%3Fu%3D10cb4252aeca065d27f98e7fb4f62077a3fde8ed%26v%3D4" alt="omarbaiomay hero visual" />
-</p>
+<img src="./assets/header.svg" alt="Omar El-Bayoumi, Odoo Developer" width="100%" />
 
-<h1>Omar El-Bayoumi</h1>
-<p><b>Odoo Developer</b></p>
+<p>
+  <a href="https://b-code.tech">🌐 b-code.tech</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/omar-albayoumi">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:bayoumiomar@gmail.com">✉️ Email</a>
+</p>
 
 </div>
 
-## The idea behind the work
+## About me
 
-> Odoo Developer with 4+ years of web development experience and hands-on Odoo work across versions 14–19. Builds custom Odoo modules in Python, bilingual Arabic/English Odoo websites and standalone Odoo apps, and supports ERP implementations from customization to go-live for clients in Saudi Arabia.
+I build Odoo solutions that businesses actually run on: custom modules, bilingual Arabic/English websites and themes, and standalone Odoo apps. 4+ years in web development, hands-on with **Odoo 14 to 19**.
 
-- 📍 Based in **Remote**
-- 🏢 Working at **@comprehensive-technology**
-- 🌐 [Website](www.linkedin.com/in/omar-albayoumi)
-- 👥 **4** followers · **4** following
+- 🏢 Odoo Developer at **Global Solutions** (Odoo Gold Partner), serving clients in Saudi Arabia
+- 🧩 Freelance Odoo and web projects through **[B-Code](https://b-code.tech)**
+- 🎓 Co-founder of **Aisha Quran Academy**
+- 🌍 Remote · Arabic & English
 
-**Currently:** `Madeeda Hospitals – Odoo Website` · `Aqar – Odoo App` · `Horizon Dashboard – Odoo App`
+## Tech stack
 
-## Case studies
+**Odoo:** ORM · model inheritance · XML views · QWeb reports · access rights · OWL · Odoo Website & themes · Odoo.sh
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/OmarBaiomay/NajdSaaS">NajdSaaS</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/OmarBaiomay/AishaQuranAcademy">AishaQuranAcademy</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Shell · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/OmarBaiomay/gs-kpi-dashboard">gs-kpi-dashboard</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/OmarBaiomay/Acknowledgment-Calculation">Acknowledgment-Calculation</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-</table>
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Creative toolkit
+## Featured work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) `PLpgSQL` `Dockerfile`
+Client and product work delivered through B-Code. Full case studies at **[b-code.tech/work](https://b-code.tech/work)**.
 
-## Make something memorable
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Madeeda Hospitals](https://b-code.tech/work/madeeda-hospitals) | Bilingual Odoo website for a 340-bed Saudi hospital group, with native forms for appointments, complaints and job applications | Odoo Website · QWeb · Arabic RTL |
+| [Aqar](https://b-code.tech/work/aqar-real-estate) | Real estate app on Odoo: portfolio, brokerage, rentals, customer portal and website listings | Odoo · Python · OWL · QWeb |
+| [Horizon Dashboard](https://b-code.tech/work/horizon-dashboard) | 8 live BI dashboards inside Odoo for sales, inventory, finance and POS | Odoo · OWL · Chart.js |
+| [Performance Hub](https://b-code.tech/work/performance-hub) | Odoo app that scores developers and consultants from tasks, timesheets and attendance | Odoo · Python · OWL |
+| [Arena](https://b-code.tech/work/arena) | Multi-tenant SaaS for gaming lounges: live sessions, POS, bookings and shifts | React · Node.js · PostgreSQL · Socket.IO |
+| [ClinoraX](https://b-code.tech/work/clinorax) | Multi-branch clinic management for Windows, web and offline | Electron · React · NestJS · PostgreSQL |
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=omarbaiomay&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48554805%3Fu%3D10cb4252aeca065d27f98e7fb4f62077a3fde8ed%26v%3D4&website=https%3A%2F%2Fb-code.tech%2F&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fomar-albayoumi&email=bayoumiomar%40gmail.com" alt="omarbaiomay social visual" />
-</p>
+## On GitHub
 
-<a href="https://github.com/omarbaiomay">GitHub</a> · <a href="https://b-code.tech/">Website</a> · <a href="https://linkedin.com/in/omar-albayoumi">LinkedIn</a> · <a href="mailto:bayoumiomar@gmail.com">Email</a>
-
-<p align="center"><sub>Omar El-Bayoumi · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+- **[watad-crm-bridge](https://github.com/OmarBaiomay/watad-crm-bridge)**: Django app that pushes leads into Odoo CRM
+- **[oba_hospital](https://github.com/OmarBaiomay/oba_hospital)**: Odoo 15 hospital management module
+- **[AishaQuranAcademy](https://github.com/OmarBaiomay/AishaQuranAcademy)**: Aisha Quran Academy platform
+- **[NajdSaaS](https://github.com/OmarBaiomay/NajdSaaS)**: SaaS project in TypeScript
+- **[react-portfolio](https://github.com/OmarBaiomay/react-portfolio)**: my portfolio site, built with React
 
 ## Experience
 
-<table>
-<tr><td width="34%" valign="top"><b>Global Solutions (Odoo Gold Partner) — Odoo Developer</b><br /><sub>Jun 2025 – Present</sub></td><td width="66%" valign="top"><ul><li>Develop custom Odoo modules in Python (ORM, model inheritance, XML views, QWeb reports, access rights) across Odoo 14–19.</li><li>Build front-end features with OWL and JavaScript; integrate Odoo with external systems via REST/RPC APIs and PostgreSQL; deploy on Odoo.sh and Linux.</li><li>Delivered customizations for Food Planet's migration from Zoho Books to Odoo through go-live.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Aisha Quran Academy — Co-Founder</b><br /><sub>Jan 2023 – Present</sub></td><td width="66%" valign="top"><ul><li>Lead the technical side of the online academy's platform (React, Node.js, Express, MongoDB, REST APIs); the academy has delivered 4,000+ live classes to 225+ students.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Global Solutions (Odoo Gold Partner) — Web Developer</b><br /><sub>Jun 2022 – Mar 2024</sub></td><td width="66%" valign="top"><ul><li>Built responsive web interfaces with HTML5, CSS3/SCSS, JavaScript (ES6) and Bootstrap 5.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Valinteca — Frontend Developer</b><br /><sub>Apr 2022 – Jun 2022</sub></td><td width="66%" valign="top"></td></tr><tr><td width="34%" valign="top"><b>Freelance Frontend Developer</b><br /><sub>Jan 2021 – Apr 2022</sub></td><td width="66%" valign="top"></td></tr>
-</table>
+| Role | Company | Dates |
+| --- | --- | --- |
+| Odoo Developer | Global Solutions (Odoo Gold Partner) | Jun 2025 – Present |
+| Co-Founder | Aisha Quran Academy | Jan 2023 – Present |
+| Web Developer | Global Solutions (Odoo Gold Partner) | Jun 2022 – Mar 2024 |
+| Frontend Developer | Valinteca | Apr 2022 – Jun 2022 |
 
-<b>Education</b>
+---
 
-- B.Sc. in Information Technology — Kafr El-Sheikh University (2018 – 2022)
+<div align="center">
 
-<b>Projects</b>
+**Have an Odoo project in mind?** Let's talk → [b-code.tech](https://b-code.tech) · [LinkedIn](https://www.linkedin.com/in/omar-albayoumi)
 
-- <b>Performance Hub – Odoo App</b> — automatic scoring of developers and consultants from tasks, timesheets and attendance.
-- <b>Arena and ClinoraX – SaaS</b> — gaming-lounge POS and multi-branch clinic platforms
+</div>
